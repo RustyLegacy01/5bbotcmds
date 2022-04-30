@@ -2,7 +2,7 @@
 <h3>Prefix: *</h3>
 
 <h2>Commands:</h2>
-<p>ping (shows bot's ping></p>
+<p>ping (shows bot's ping)</p>
 <p>coords (shows bot's coordinates)</p>
 <p>kills/deaths (either, shows bot's death count)</p>
 <p>help (shows list of commands)</p>
