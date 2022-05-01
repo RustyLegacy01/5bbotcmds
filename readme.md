@@ -7,3 +7,4 @@
 <p>kills/deaths (either, shows bot's death count)</p>
 <p>help (shows list of commands)</p>
 <p>uptime (shows uptime of bot in seconds)</p>
+<p>pt/playtime (shows your playtime since bot was created)</p>
