@@ -8,3 +8,4 @@
 <p>help (shows list of commands)</p>
 <p>uptime (shows uptime of bot in seconds)</p>
 <p>pt/playtime (shows your playtime since bot was created)</p>
+<p>8ball (sends you your 8ball reading)</p>
